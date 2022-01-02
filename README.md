@@ -28,6 +28,29 @@ MADE BY-TEAMIC
 - :)    
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
+# If you are using replit then replace index.js to get the link
+```yaml
+const express = require("express");
+
+const app = express()
+
+app.get('/', (req, res) => {
+
+  res.send("Use this link for uptime")
+
+})
+
+app.listen(3000, () => {
+
+  console.log("bot started")
+
+})
+
+const { mineboty } = require("mineboty")
+
+mineboty(); 
+```
+
 # why mineboty
 - mineboty is better than afk bots
 - mineboty has multiple features
