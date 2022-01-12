@@ -1,9 +1,9 @@
 {
- "ip": "Your_minecraft_server_ip_here",
- "port": "Your_server_port_here",
- "name": "Your_bot_name_here",
+ "ip": "play.teamic.me",
+ "port": "",
+ "name": "eeeeeee",
  "auto-night-skip": "false",
- "loginmsg": "Your_Login_message_here",
+ "loginmsg": "/register eeeeop#123 eeeeop#123",
  "prefix": "!",
  "version": "1.17.1"
 }
